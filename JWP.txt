@@ -1,5 +1,6 @@
 {
   "Header" : "url",
+  "ExampleCount" : 3,
   "Examples": 
     [
         { "Name1" : "url" },
