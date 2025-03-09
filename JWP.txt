@@ -3,9 +3,9 @@
   "ExampleCount" : 3,
   "Examples": 
     [
-        { "Name1" : "url" },
-        { "Name2" : "url" },
-        { "Name3" : "url" } 
+        { "Name" : "Name1", "URL" : "url" },
+        { "Name" : "Name2", "URL" : "url" },
+        { "Name" : "Name2", "URL" : "url" } 
     ]
 }
 
