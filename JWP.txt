@@ -1,6 +1,7 @@
 {
 "Header" : "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/475675158_922234186729117_7117355470367746616_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=4VowFFWtEt0Q7kNvgHVjrCF&_nc_oc=AdgaoDd3rD2jV7tRrnKAWWAjlTMovm9Nrx9mQoZV--QxvB8zy7xWP0xzuBQ5Jjiz62Q&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=AZXqEWrnsAsIUkZC9rM_RWg&oh=00_AYHNy8YlpkE0s6viDnnZdTrOTH2GFm1GEfjTgqKoAvgxpg&oe=67D3A5AE",
 "Contact" : "https://formspree.io/f/xldjejwn",
+"Navbar" : "Joe's Power Washing Solutions",
 "ExampleCount" : 8,
 "Examples": 
     [
