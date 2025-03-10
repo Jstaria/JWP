@@ -15,7 +15,7 @@
   "AboutCount" : 1,
   "About" :
     [
-        { "Name" : "Joseph Staria", "Role" : "Owner", "Desc" : "Proud Owner of Joe's Power Washing Solutions.\nGetting older hasn't stopped me yet!", "URL" : "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/464461879_9514166138610208_8563902713264057768_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=b04a48&_nc_ohc=EizufUri-ZMQ7kNvgGCy1fh&_nc_oc=AdgpienL9DbIDRBq5IP-K0kUj-ojUXHHJyGGf5OD9mQmBErbMtmpPljl2KllVwQjyr8&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=A8BvLmoNEmZWsvB-x0qEtsN&oh=00_AYEIbAiH1MupRDcYMuZcK-m-p8GLQiEabCOfLdb61w3lRA&oe=67D5146C" }
+        { "Name" : "Joseph Staria", "Role" : "Owner", "Desc" : "Proud Owner of Joe's Power Washing Solutions.\n\nGetting older hasn't stopped me yet!", "URL" : "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/464461879_9514166138610208_8563902713264057768_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=b04a48&_nc_ohc=EizufUri-ZMQ7kNvgGCy1fh&_nc_oc=AdgpienL9DbIDRBq5IP-K0kUj-ojUXHHJyGGf5OD9mQmBErbMtmpPljl2KllVwQjyr8&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=A8BvLmoNEmZWsvB-x0qEtsN&oh=00_AYEIbAiH1MupRDcYMuZcK-m-p8GLQiEabCOfLdb61w3lRA&oe=67D5146C" }
     ]
 }
 
