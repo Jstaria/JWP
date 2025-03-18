@@ -1,0 +1,11 @@
+.animate__animated.animate__fadeIn {
+    --animate-duration: .75s;
+}
+
+.animate__animated.animate__fadeOut {
+    --animate-duration: .25s;
+}
+
+.opacity-zero {
+    opacity: 0;
+}
